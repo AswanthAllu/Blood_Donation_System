@@ -1,0 +1,33 @@
+.login-container{
+    background-image: radial-gradient(circle,#f6d9d8,#ae6446 ,#C2231E );
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+}
+.log-in-container{
+    background-color:#f6d9d8 ;
+    border-radius: 10px;
+    width:350px;
+    text-align: center;
+}
+.login-head{
+    color:#C2231E;
+    font-weight:bold;
+}
+input{
+    height:27px;
+    width:300px;
+    margin:10px;
+    border:0px ;
+    border-radius:5px;
+    padding-left:10px;
+}
+
+a{
+    color:#C2231E;
+    font-size: 20px;
+    font-weight: bold;
+}
+

@@ -1,0 +1,27 @@
+
+.dashboard-navbar{
+    background-color:#C2231E;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    flex-grow:1;
+    padding:10px;
+}
+.dashboard-navbar-heading{
+    color:#ffffff;
+    font-size:26px;
+    font-weight:bold;
+}
+.dashboard-navbar-link{
+    font-size:15px;
+    color:#ffffff;
+    margin-right:10px;
+    font-weight:500px;
+}
+.dashboard-logout-button{
+    border-radius: 29px;
+    border:0px;
+    padding:5px;
+    width:75px;
+    color:#C2231E;
+}
